@@ -21,7 +21,7 @@
     <plugin.compiler.version>3.0</plugin.compiler.version>
 
     <spring.version>4.1.7.RELEASE</spring.version>
-    <spring.data.version>1.8.0.RELEASE</spring.data.version>
+    <spring.data.version>3.3.5</spring.data.version>
     <junit.version>4.11</junit.version>
     <hamcrest.version>1.3</hamcrest.version>
   </properties>
